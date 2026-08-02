@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "texto": "Hola, ¿cómo estás?",
+    "audio": "palabras_0001.mp3",
+    "categoria": "palabras",
+    "dificultad": "facil",
+    "duracion": 1.6,
+    "permite_repetir": true,
+    "etiquetas": ["saludo"]
+  },
+  {
+    "id": 2,
+    "texto": "biblioteca",
+    "audio": "palabras_0002.mp3",
+    "categoria": "palabras",
+    "dificultad": "facil",
+    "duracion": 1.1,
+    "permite_repetir": true,
+    "etiquetas": ["sustantivo"]
+  },
+  {
+    "id": 3,
+    "texto": "El clima ha cambiado mucho durante los últimos años.",
+    "audio": "frases_0001.mp3",
+    "categoria": "frases",
+    "dificultad": "media",
+    "duracion": 3.4,
+    "permite_repetir": true,
+    "etiquetas": ["clima", "general"]
+  },
+  {
+    "id": 4,
+    "texto": "La reunión del comité directivo fue reprogramada para el próximo martes a las nueve de la mañana.",
+    "audio": "frases_0002.mp3",
+    "categoria": "frases",
+    "dificultad": "dificil",
+    "duracion": 5.2,
+    "permite_repetir": true,
+    "etiquetas": ["trabajo", "reunion"]
+  },
+  {
+    "id": 5,
+    "texto": "Avenida Circunvalación número 452, Colonia Las Flores, entre la panadería y la farmacia.",
+    "audio": "direcciones_0001.mp3",
+    "categoria": "direcciones",
+    "dificultad": "media",
+    "duracion": 4.8,
+    "permite_repetir": true,
+    "etiquetas": ["direccion", "colonia"]
+  },
+  {
+    "id": 6,
+    "texto": "Boulevard del Sur, casa color azul, portón negro, junto al parque central.",
+    "audio": "direcciones_0002.mp3",
+    "categoria": "direcciones",
+    "dificultad": "media",
+    "duracion": 4.1,
+    "permite_repetir": true,
+    "etiquetas": ["direccion", "referencia"]
+  },
+  {
+    "id": 7,
+    "texto": "3 5 8 2 9 1 4",
+    "audio": "numeros_0001.mp3",
+    "categoria": "numeros",
+    "dificultad": "facil",
+    "duracion": 2.2,
+    "permite_repetir": false,
+    "etiquetas": ["digitos"]
+  },
+  {
+    "id": 8,
+    "texto": "El número de expediente es 88240-A y el código postal es 21004.",
+    "audio": "numeros_0002.mp3",
+    "categoria": "numeros",
+    "dificultad": "dificil",
+    "duracion": 3.9,
+    "permite_repetir": false,
+    "etiquetas": ["codigo", "expediente"]
+  },
+  {
+    "id": 9,
+    "texto": "Necesito una ambulancia en la colonia Las Flores porque mi padre no respira correctamente.",
+    "audio": "911_0001.mp3",
+    "categoria": "911",
+    "dificultad": "media",
+    "duracion": 6.8,
+    "permite_repetir": false,
+    "etiquetas": ["ambulancia", "direccion", "emergencia"]
+  },
+  {
+    "id": 10,
+    "texto": "Hay un incendio en el tercer piso del edificio Torres del Norte, envíen bomberos de inmediato.",
+    "audio": "911_0002.mp3",
+    "categoria": "911",
+    "dificultad": "dificil",
+    "duracion": 7.1,
+    "permite_repetir": false,
+    "etiquetas": ["incendio", "emergencia", "bomberos"]
+  },
+  {
+    "id": 11,
+    "texto": "Vi un vehículo sospechoso, un sedán gris, placa PBH-4521, estacionado frente a la escuela.",
+    "audio": "911_0003.mp3",
+    "categoria": "911",
+    "dificultad": "dificil",
+    "duracion": 7.6,
+    "permite_repetir": false,
+    "etiquetas": ["seguridad", "placa", "emergencia"]
+  }
+]
